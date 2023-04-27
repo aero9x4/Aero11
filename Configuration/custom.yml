@@ -1,0 +1,14 @@
+---
+title: Aero11
+description: Aero11 custom AME playbook
+privilege: Admin
+actions: []
+features:
+- features\base\regedits.yml
+#- features\base\dotnet.yml
+- features\base\appx.yml
+- features\base\services.yml
+- features\base\components.yml
+- features\base\files.yml
+- features\base\config.yml
+- features\base\software.yml
